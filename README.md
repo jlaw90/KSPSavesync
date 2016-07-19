@@ -13,7 +13,7 @@ This can be useful for using Google Drive, Dropbox,  MEGAsync or other programs 
 
 # Compiling
 * Load the solution in Visual Studio 2013 or higher
-* Add references to ```Assembly-CSharp.dll``` and ```UnityEngine.dll``` (can be found in ```<KSP>/KSP_Data/Managed``` directory)
+* Add references to ```Assembly-CSharp.dll```, ```UnityEngine.dll``` and ```KSPUtil.dll``` (can be found in ```<KSP>/KSP_Data/Managed``` directory)
 * Voila! It should now compile fine
 
 Refer to usage on how to use
